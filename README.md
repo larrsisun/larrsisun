@@ -1,6 +1,3 @@
-##  about me:
-i'm currently learning java!
-
 ## my socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:errielae@gmail.com) 
 
